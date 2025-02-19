@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1739984614415,
+    "title": "New Task",
+    "description": "This is a new task.",
+    "completed": false
+  },
+  {
+    "id": 1739984666440,
+    "title": "Buy Groceries",
+    "description": "Need to buy milk, eggs, and bread.",
+    "completed": false
+  },
+  {
+    "id": 1739984680729,
+    "title": "Schedule Doctor Appointment",
+    "description": "Call the clinic to schedule a check-up appointment.",
+    "completed": false
+  },
+  {
+    "id": 1739984694014,
+    "title": "Workout",
+    "description": "Go for a 30-minute run in the park.",
+    "completed": false
+  },
+  {
+    "id": 1739996183899,
+    "title": "Assignement ",
+    "description": "Given assignment to complete finsihed",
+    "completed": true
+  }
+]
